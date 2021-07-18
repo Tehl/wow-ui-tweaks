@@ -1,0 +1,22 @@
+## Interface: 90001
+## Version: 1.0.0
+## Author: Tehl
+## Title: !Personal UI Tweaks
+## Notes: Setup and behavior scripts for personal UI
+
+libs\LibStub\LibStub.lua
+Tweak.lua
+
+Media.lua
+Bindings.lua
+Override.lua
+
+Commands\GroupInfo.lua
+Commands\RaidIcons.lua
+Commands\Zoom.lua
+
+#Tweaks\ActionCam.lua
+Tweaks\CVar.lua
+Tweaks\Font.lua
+Tweaks\HealProfile.lua
+Tweaks\Nameplates.lua

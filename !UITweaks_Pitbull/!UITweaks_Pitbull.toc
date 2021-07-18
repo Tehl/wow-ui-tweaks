@@ -1,0 +1,9 @@
+## Interface: 90001
+## Version: 1.0.0
+## Author: Tehl
+## Title: !Personal UI Tweaks (Pitbull)
+## Notes: Setup and behavior scripts for personal UI
+## Dependencies: Pitbull4
+
+BarBorder.lua
+RoleIcon.lua

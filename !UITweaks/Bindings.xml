@@ -1,0 +1,29 @@
+<Bindings>
+ <Binding name="MYUI_BINDING_RT_SKULL" header="MYUI_BINDINGS" default="CTRL-T">
+   MyUI_SetRaidMarker(8)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_CROSS" default="CTRL-G">
+   MyUI_SetRaidMarker(7)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_SQUARE" default="CTRL-B">
+   MyUI_SetRaidMarker(6)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_MOON" default="CTRL-V">
+   MyUI_SetRaidMarker(5)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_TRIANGLE">
+   MyUI_SetRaidMarker(4)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_DIAMOND">
+   MyUI_SetRaidMarker(3)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_CIRCLE">
+   MyUI_SetRaidMarker(2)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_STAR">
+   MyUI_SetRaidMarker(1)
+ </Binding>
+ <Binding name="MYUI_BINDING_RT_CLEAR" default="CTRL-C">
+   MyUI_SetRaidMarker(0)
+ </Binding>
+</Bindings>
